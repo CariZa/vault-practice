@@ -4,4 +4,4 @@ ls
 
 whoami
 
-cat vault-repo/README.md
+cat README.md
