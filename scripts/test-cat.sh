@@ -1,5 +1,5 @@
 #!/bin/bash
 
-ls
+ls 
 
-cat README.md
+cat vault-repo/README.md
