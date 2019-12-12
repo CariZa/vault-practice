@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 FILES=sync/*
 for f in $FILES
