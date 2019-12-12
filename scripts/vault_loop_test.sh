@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILES=sync/
+FILES=sync/*
 for f in $FILES
 do
     echo "Processing $f file..."
