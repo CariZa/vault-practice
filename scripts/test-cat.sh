@@ -1,3 +1,5 @@
 #!/bin/bash
 
-cat ../README.md
+ls
+
+cat README.md
